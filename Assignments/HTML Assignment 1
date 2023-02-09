@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+
+<html>
+    
+
+        <head> 
+               
+            
+            <title> HTML PAGE </title>
+            <style>
+              h1{
+                  color: brown;
+                  text-align: center;
+              }
+
+             h3{
+                color:blueviolet;
+                text-align: center;
+
+
+             }
+
+
+            </style>
+        </head>
+
+        <body>
+         <h1> Why I want to become a devloper?</h1>
+         <p> 
+            <h3>  Creating something and  constructing new things every day. Each line of code is another building block.  we’re not engineers, we’re builders. There’s something very satisfying about creating something new.For better or worst, programming involves endless learning.This  is process of self-improvement.It can be difficult to face challenges so often, but it’s also interesting.software engineers are usually very well paid.Besides money, multinational companies offer an abundance of benefits to their employees. Fancy coffee machines being one of them.Moreover its a great chance to explore new places and make good friends.</h3></p>
+        </body>
+
+</html>
