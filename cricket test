@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+
+
+<html>
+    
+
+        <head> 
+               
+            
+            <title>cricket in india </title>
+           
+
+
+
+
+         </head>
+
+       
+       
+         <body>
+                <h1> Cricket in India</h1>
+                <h3>How it got started</h3>
+                <h5> <p>Cricket was introduced to India by British sailors in the 18th century, and the first cricket club was established  in 1792. India's national cricket team played itsfirst Test match on 25 June 1932 at Lord's, becoming the sixth team to be granted test cricket status. </p> </h5>
+
+
+                <h3> Important cricket Tournament</h3>
+                <h4> <pre> •Internation Events
+         1. ICC World Cup
+         2. ICC Cricket trophy
+         3. t-20 World Cup
+ •Domestic Events
+         1. IPL
+         2. Ranji Trophy</pre></h4>
+
+
+        
+         <h5> All the above events are no doubt the great events but the most important event is no doubt the 50-50 and t-20 worldcup</h5>
+
+
+         <h3> Lets have a look at all 50-50 worldcup:</h3>
+         <h3><pre>                        Cricket World Cup</pre></h3>
+         <h3> <pre><b>year   winner    score  runner-up  score result</b><br>1975 West Indies 291–8  Australia   274  West Indies won by 17 runs<br>1979 West Indies 286–9  England     194  West Indies won by 92 runs <br>1983 India       183    West Indies 140  India won by 43 runs
+1987 Australia   253–5  England     246–8 Australia won by 7 runs
+1992 Pakistan    249–6  England     227  Pakistan won by 22 runs
+1996 Sri Lanka   245–3  Australia   241  Sri Lanka won by 7 wickets
+1999 Australia   133–2  Pakistan    132  Australia won by 8 wickets
+2003 Australia   359–2  India       234  Australia won by 125 runs
+2007 Australia   281–4  Sri Lanka   215–8 Australia won by 53 runs
+2011 India       277–4  Sri Lanka   274–6 India won by 6 wickets
+2015 Australia   186–3  New Zealand 183  Australia won by 7 wickets<br>2019 England     241    New Zealand 241–8 England won on boundary count</pre></h3>
+
+<h5> This table has been taken from from cricket website:<a href="">click here</a>to visit<br><br>I am criket guru btw, if you want to know something, you can contact me.</h5>
+
+
+<form>
+        
+       
+        <label for="name"><b>Full Name:</b><br></label>
+        <input type=" text" id="name"><br>
+
+        <label for="email"><b>Email:</b><br></label>
+        <input type=" text" id="name"><br>
+
+
+        <label for="phonenumber"><b>Phone Number:</b><br></label>
+        <input type=" text" id="name"><br>
+
+
+        <label for="password"><b>Password:</b><br></label>
+        <input type=" text" id="name"><br>
+
+
+        <label for=" confirmedpassword"><b>Confirmed Password:</b><br></label>
+        <input type=" text" id="name"><br>
+        Select Your Gender<br>
+
+        <input type="radio" id="female"name="gender"  value="Female">
+        <label for="female">Female</label><br>
+        <input type="radio" id="male" name="gender" value="male">
+        <label for="male">Male</label><br>
+        <input type="radio" id="others" name="gender" value="male">
+        <label for="others">Others</label><br><br>
+        Select your favourite player:<br>
+        <label for="text"></label>
+        <input type=" text" id="favourite player"><br>
+        Address<br>
+        <label for="text"></label>
+        <textarea style="height:50px; width:250px;"></textarea><br>
+        <input type="submit" value="Register"><br>
+
+</form>
+
+
+        with everything we also came to end so a departing gift from our side:<br>
+
+
+
+
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/mEOBGY4-7JA?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+          
+                
+
+            
+              
+        </body>
+
+</html>
